@@ -1,0 +1,2 @@
+module GchartHelper
+end
